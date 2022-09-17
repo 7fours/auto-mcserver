@@ -1,6 +1,7 @@
 # auto-mcserver
 
-- Deprecated Python script for Minecraft server. Repos for asset files are down but if the files are hosted manually, script still should work. 
+- Deprecated Python script for Minecraft server. Repos for asset files are down but if the files are hosted manually, script still should work.
+- I had just started learning classes at this point it seems
 
 ### Auto Minecraft Server:
 Auto generate a vanilla, paper, fabric, or a premade paper server with plugins preinstalled.
